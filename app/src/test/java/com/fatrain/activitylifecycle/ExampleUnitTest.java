@@ -1,4 +1,4 @@
-package com.fatrain.twoactivities;
+package com.fatrain.activitylifecycle;
 
 import org.junit.Test;
 

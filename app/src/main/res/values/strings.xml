@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Two Activities</string>
+    <string name="app_name">Activity Lifecycle</string>
     <string name="button_main">Send</string>
     <string name="text_header">Message Recieved</string>
     <string name="button_second">Reply</string>
